@@ -1,5 +1,5 @@
 {
-  "name": "merge-file-lists",
+  "name": "@d2k/merge-file-lists",
   "version": "1.0.0",
   "description": "Merges two FileList objects",
   "repository": {

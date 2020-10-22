@@ -5,19 +5,19 @@
 ## Installation via NPM
 
 ```sh
-npm install merge-file-lists --save
+npm install @d2k/merge-file-lists --save
 ```
 
 ## Installation via Yarn
 
 ```sh
-yarn add merge-file-lists
+yarn add @d2k/merge-file-lists
 ```
 
 ## Usage
 
 ```js
-import mergeFileLists from "merge-file-lists";
+import mergeFileLists from "@d2k/merge-file-lists";
 
 const newFileList = mergeFileLists(fileListA, fileListB);
 ```
