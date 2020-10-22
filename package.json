@@ -1,0 +1,23 @@
+{
+  "name": "merge-file-lists",
+  "version": "1.0.0",
+  "description": "Merges two FileList objects",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "prepublish": "npm run build",
+    "clean": "rimraf ./lib",
+    "build": "npm run clean && tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "filelist",
+    "merge"
+  ],
+  "author": "bdbch",
+  "license": "MIT",
+  "devDependencies": {
+    "rimraf": "^3.0.2",
+    "typescript": "^4.0.3"
+  }
+}
