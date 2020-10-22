@@ -6,6 +6,9 @@
     "type": "Github",
     "url": "https://github.com/bdbch/merge-file-lists"
   },
+  "files": [
+    "lib"
+  ],
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
