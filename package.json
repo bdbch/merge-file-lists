@@ -2,6 +2,10 @@
   "name": "merge-file-lists",
   "version": "1.0.0",
   "description": "Merges two FileList objects",
+  "repository": {
+    "type": "Github",
+    "url": "https://github.com/bdbch/merge-file-lists"
+  },
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
